@@ -1,0 +1,15 @@
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.deps.json
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.runtimeconfig.json
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.pdb
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Core.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\netcoreapp3.1\EcommerceApp.Core.pdb
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.AssemblyInfo.cs
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.csproj.CopyComplete
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.pdb
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.genruntimeconfig.cache

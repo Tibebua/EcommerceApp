@@ -1,0 +1,9 @@
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\bin\Debug\netstandard2.0\EcommerceApp.Core.deps.json
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\bin\Debug\netstandard2.0\EcommerceApp.Core.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\bin\Debug\netstandard2.0\EcommerceApp.Core.pdb
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.csprojAssemblyReference.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.AssemblyInfoInputs.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.AssemblyInfo.cs
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Core\obj\Debug\netstandard2.0\EcommerceApp.Core.pdb
