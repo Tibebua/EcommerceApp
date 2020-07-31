@@ -1,4 +1,6 @@
 
+using AutoMapper;
+using EcommerceApp.Api.Helpers;
 using EcommerceApp.Core.Interfaces;
 using EcommerceApp.Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
@@ -23,6 +25,9 @@ namespace EcommerceApp.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped(typeof(IGenericRepository<>),
+                               typeof(GenericRepository<>));
+            services.AddAutoMapper(typeof(MappingProfiles));
             services.AddControllers();
             services.AddDbContext<StoreContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
 
@@ -39,6 +44,8 @@ namespace EcommerceApp.Api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 

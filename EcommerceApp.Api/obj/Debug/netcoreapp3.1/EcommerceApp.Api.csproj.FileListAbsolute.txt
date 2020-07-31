@@ -35,8 +35,6 @@ C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\obj\Debug\netcoreapp3.1\EcommerceApp.Api.csproj.CopyComplete
-C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\obj\Debug\netcoreapp3.1\EcommerceApp.Api.csproj.CoreCompileInputs.cache
-C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\obj\Debug\netcoreapp3.1\EcommerceApp.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\EcommerceApp.Core.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\EcommerceApp.Infrastructure.pdb
@@ -63,3 +61,7 @@ C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\obj\Debug\netcoreapp3.1\EcommerceApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\EcommerceApp\EcommerceApp.Api\obj\Debug\netcoreapp3.1\EcommerceApp.Api.MvcApplicationPartsAssemblyInfo.cache

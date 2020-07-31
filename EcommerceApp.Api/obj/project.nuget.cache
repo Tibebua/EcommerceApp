@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1gU80SPppzCPXwI2XKOuBEm89U2ySyF7MJDRpFt2UUqrx23xvTYB1eCe26vR6hqi2qBI+LH/83U9qDYeqiu7YQ==",
+  "dgSpecHash": "l9ibU0e+jjveH9Vl5UCkvce/XZTYYp+gpLAozNfMsl+2dC8zdba5DG6X7aPshWs86onTAStBhCoatmRRA7VK7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP PC\\source\\repos\\EcommerceApp\\EcommerceApp.Api\\EcommerceApp.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HP PC\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0-preview.7.20365.15\\microsoft.data.sqlite.core.5.0.0-preview.7.20365.15.nupkg.sha512",
@@ -33,6 +35,7 @@
     "C:\\Users\\HP PC\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.7.20364.11\\system.componentmodel.annotations.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.7.20364.11\\system.diagnostics.diagnosticsource.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\HP PC\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.7.20364.11\\system.text.encodings.web.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\HP PC\\.nuget\\packages\\system.text.json\\5.0.0-preview.7.20364.11\\system.text.json.5.0.0-preview.7.20364.11.nupkg.sha512"
