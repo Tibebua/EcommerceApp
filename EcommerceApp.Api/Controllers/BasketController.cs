@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using AutoMapper;
+using EcommerceApp.Api.Dtos;
 using EcommerceApp.Core.Entities;
 using EcommerceApp.Core.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceApp.Api.Controllers
@@ -14,10 +12,12 @@ namespace EcommerceApp.Api.Controllers
     public class BasketController : ControllerBase
     {
         private readonly IBasketRepository _basketRepo;
+        private readonly IMapper _mapper;
 
-        public BasketController(IBasketRepository basketRepo)
+        public BasketController(IBasketRepository basketRepo, IMapper mapper)
         {
             _basketRepo = basketRepo;
+            _mapper = mapper;
         }
 
         [HttpGet]
@@ -29,9 +29,10 @@ namespace EcommerceApp.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasket basket)
+        public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasketDto basket)
         {
-            var updatedBasket = await _basketRepo.UpdateBasketAsync(basket);
+            var customerBasket = _mapper.Map<CustomerBasketDto, CustomerBasket>(basket);
+            var updatedBasket = await _basketRepo.UpdateBasketAsync(customerBasket);
 
             return Ok(updatedBasket);
         }
