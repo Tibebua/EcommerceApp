@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using EcommerceApp.Api.Errors;
 using EcommerceApp.Infrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SQLitePCL;
@@ -19,6 +20,14 @@ namespace EcommerceApp.Api.Controllers
         public BuggyController(StoreContext context)
         {
             _context = context;
+        }
+
+
+        [HttpGet("testauth")]
+        [Authorize]
+        public ActionResult<string> GetSecretText()
+        {
+            return "secret stuff";
         }
 
         [HttpGet("notfound")]

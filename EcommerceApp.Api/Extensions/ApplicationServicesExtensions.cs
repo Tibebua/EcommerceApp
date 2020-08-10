@@ -1,13 +1,10 @@
 ﻿using EcommerceApp.Api.Errors;
 using EcommerceApp.Core.Interfaces;
 using EcommerceApp.Infrastructure.Data;
+using EcommerceApp.Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Threading.Tasks;
 
 namespace EcommerceApp.Api.Extensions
 {
@@ -15,6 +12,7 @@ namespace EcommerceApp.Api.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
+            services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped(typeof(IGenericRepository<>),
                                typeof(GenericRepository<>));
